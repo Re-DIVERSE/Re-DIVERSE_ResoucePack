@@ -1,0 +1,32 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/spark/1.png",
+            "ascent": 276,
+            "height": 512,
+            "chars": [
+                "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/spark/2.png",
+            "ascent": 276,
+            "height": 512,
+            "chars": [
+                "2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/spark/3.png",
+            "ascent": 276,
+            "height": 512,
+            "chars": [
+                "3"
+            ]
+        },
+        {"type":"space","advances":{"\ue002":-256}}
+    ]
+}
