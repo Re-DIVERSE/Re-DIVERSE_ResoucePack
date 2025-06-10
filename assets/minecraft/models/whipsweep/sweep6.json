@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom_particles/whipsweep/ir",
+		"0": "item/custom_particles/air",
 		"1": "item/custom_particles/whipsweep/sweep6",
 		"particle": "item/custom_particles/whipsweep/air"
 	},
