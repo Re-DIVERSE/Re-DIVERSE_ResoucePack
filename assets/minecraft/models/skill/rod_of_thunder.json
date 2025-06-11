@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/skills/rodofthunder",
-		"particle": "item/skills/rodofthunder"
+		"0": "item/skills/rod_of_thunder",
+		"particle": "item/skills/rod_of_thunder"
 	},
 	"elements": [
 		{
