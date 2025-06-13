@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:block/fire_0.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": [
+                "1"
+            ]
+        }
+    ]
+}
