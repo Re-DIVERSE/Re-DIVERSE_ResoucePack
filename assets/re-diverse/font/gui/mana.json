@@ -3,9 +3,6 @@
     {"type":"bitmap","file":"re-diverse:font/manabar/manabar0.png","ascent":-33,"height":7,"chars":["\ue000"]},
     {"type":"bitmap","file":"re-diverse:font/manabar/manabar1.png","ascent":-33,"height":7,"chars":["\ue001"]},
     {"type":"bitmap","file":"re-diverse:font/manabar/manabar2.png","ascent":-33,"height":7,"chars":["\ue002"]},
-
-    {"type":"bitmap","file":"re-diverse:font/manabar/manabar1.png","ascent":-33,"height":7,"chars":["\ue001"]},
-    {"type":"bitmap","file":"re-diverse:font/manabar/manabar2.png","ascent":-33,"height":7,"chars":["\ue002"]},
     {"type":"bitmap","file":"re-diverse:font/manabar/manabar3.png","ascent":-33,"height":7,"chars":["\ue003"]},
     {"type":"bitmap","file":"re-diverse:font/manabar/manabar4.png","ascent":-33,"height":7,"chars":["\ue004"]},
     {"type":"bitmap","file":"re-diverse:font/manabar/manabar5.png","ascent":-33,"height":7,"chars":["\ue005"]},
