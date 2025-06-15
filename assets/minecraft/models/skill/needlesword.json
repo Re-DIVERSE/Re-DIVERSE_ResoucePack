@@ -3,8 +3,8 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "item/skills/needlesword1",
-		"1": "item/skills/needlesword1",
-		"particle": "item/skills/needlesword2"
+		"1": "item/skills/needlesword2",
+		"particle": "item/skills/needlesword1"
 	},
 	"elements": [
 		{
