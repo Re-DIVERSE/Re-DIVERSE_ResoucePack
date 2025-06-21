@@ -1,0 +1,41 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/target/1.png",
+            "ascent": 276,
+            "height": 512,
+            "chars": [
+                "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/target/2.png",
+            "ascent": 276,
+            "height": 512,
+            "chars": [
+                "2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/target/3.png",
+            "ascent": 276,
+            "height": 512,
+            "chars": [
+                "3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/target/4.png",
+            "ascent": 276,
+            "height": 512,
+            "chars": [
+                "4"
+            ]
+        },
+        {"type":"space","advances":{"\ue002":-256}}
+    ]
+}
