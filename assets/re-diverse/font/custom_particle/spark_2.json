@@ -1,0 +1,77 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/spark_2/1.png",
+            "ascent": 16,
+            "height": 32,
+            "chars": [
+                "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/spark_2/2.png",
+            "ascent": 16,
+            "height": 32,
+            "chars": [
+                "2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/spark_2/3.png",
+            "ascent": 16,
+            "height": 32,
+            "chars": [
+                "3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/spark_2/4.png",
+            "ascent": 16,
+            "height": 32,
+            "chars": [
+                "4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/spark_2/5.png",
+            "ascent": 16,
+            "height": 32,
+            "chars": [
+                "5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/spark_2/6.png",
+            "ascent": 16,
+            "height": 32,
+            "chars": [
+                "6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/spark_2/7.png",
+            "ascent": 16,
+            "height": 32,
+            "chars": [
+                "7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/spark_2/8.png",
+            "ascent": 16,
+            "height": 32,
+            "chars": [
+                "8"
+            ]
+        },
+        {"type":"space","advances":{"\ue002":-256}}
+    ]
+}
