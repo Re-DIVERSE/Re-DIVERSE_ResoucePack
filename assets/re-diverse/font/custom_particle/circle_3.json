@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/circle_3/0.png",
+            "ascent": 62,
+            "height": 128,
+            "chars": [
+                "0"
+            ]
+        }
+    ]
+}
