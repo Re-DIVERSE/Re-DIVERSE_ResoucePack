@@ -1,0 +1,17 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "item/common/aoe_model_1_in"
+	},
+	"elements": [
+		{
+			"from": [0, 8.02, 0],
+			"to": [16, 8.02, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1", "tintindex": 0}
+			}
+		}
+	]
+}

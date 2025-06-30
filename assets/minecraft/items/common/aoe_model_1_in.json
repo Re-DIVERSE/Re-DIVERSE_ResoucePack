@@ -1,0 +1,12 @@
+{
+  "model":{
+    "type":"minecraft:model",
+    "model":"minecraft:common/aoe_model_1_in",
+    "tints":[
+      {
+      "type":"minecraft:dye",
+      "default":[1, 1, 1]
+    }
+    ]
+  }
+}
