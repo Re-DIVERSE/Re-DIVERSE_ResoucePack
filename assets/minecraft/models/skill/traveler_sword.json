@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/skills/herosword",
-		"particle": "item/skills/herosword"
+		"0": "item/skills/traveler_sword",
+		"particle": "item/skills/traveler_sword"
 	},
 	"elements": [
 		{
