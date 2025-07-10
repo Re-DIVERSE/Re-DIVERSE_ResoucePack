@@ -2,5 +2,6 @@
   "model":{
     "type":"minecraft:model",
     "model":"minecraft:skill/houryuutou_ten_noutou"
-  }
+  },
+  "hand_animation_on_swap": false
 }

@@ -2,5 +2,6 @@
   "model":{
     "type":"minecraft:model",
     "model":"minecraft:skill/assaultrifle"
-  }
+  },
+  "hand_animation_on_swap": false
 }
