@@ -11,7 +11,7 @@
     {"type":"bitmap","file":"re-diverse:font/effect/feather_foot.png","ascent":-26,"height":16,"chars":["\ue008"]},
     {"type":"bitmap","file":"re-diverse:font/effect/invincible.png","ascent":-26,"height":16,"chars":["\ue009"]},
     {"type":"bitmap","file":"re-diverse:font/effect/strength.png","ascent":-26,"height":16,"chars":["\ue010"]},
-    {"type":"bitmap","file":"re-diverse:font/effect/strength.png","ascent":-26,"height":16,"chars":["\ue011"]},
+    {"type":"bitmap","file":"re-diverse:font/effect/invisibility.png","ascent":-26,"height":16,"chars":["\ue011"]},
     {"type":"bitmap","file":"re-diverse:font/effect/strength.png","ascent":-26,"height":16,"chars":["\ue012"]},
     {"type":"bitmap","file":"re-diverse:font/effect/strength.png","ascent":-26,"height":16,"chars":["\ue013"]},
     {"type":"bitmap","file":"re-diverse:font/effect/strength.png","ascent":-26,"height":16,"chars":["\ue014"]},
@@ -28,6 +28,7 @@
     {"type":"bitmap","file":"re-diverse:font/effect/strength.png","ascent":-26,"height":16,"chars":["\ue025"]},
     {"type":"bitmap","file":"re-diverse:font/effect/frostbite.png","ascent":-26,"height":16,"chars":["\ue026"]},
     {"type":"bitmap","file":"re-diverse:font/effect/electrocuted.png","ascent":-26,"height":16,"chars":["\ue027"]},
+    {"type":"bitmap","file":"re-diverse:font/effect/health_boost.png","ascent":-26,"height":16,"chars":["\ue028"]},
 
     {"type":"space","advances":{"\uf000":120}},
     {"type":"space","advances":{"\uf001":-120}},
