@@ -1,0 +1,7 @@
+{
+  "model":{
+    "type":"minecraft:model",
+    "model":"minecraft:skill/ragingcry"
+  },
+  "hand_animation_on_swap": false
+}
