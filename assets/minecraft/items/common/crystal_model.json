@@ -1,0 +1,6 @@
+{
+  "model":{
+    "type":"minecraft:model",
+    "model":"minecraft:common/crystal_model"
+  }
+}
