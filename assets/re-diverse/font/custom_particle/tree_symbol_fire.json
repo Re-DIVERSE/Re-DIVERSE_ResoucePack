@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/symbol/tree_symbol_fire.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "1"
+            ]
+        }
+    ]
+}
