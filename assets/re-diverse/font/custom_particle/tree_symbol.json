@@ -35,6 +35,33 @@
             "chars": [
                 "3"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/tree_symbol/4.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/tree_symbol/5.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/tree_symbol/6.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "6"
+            ]
         }
     ]
 }
