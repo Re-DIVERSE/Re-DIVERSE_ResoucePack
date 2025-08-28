@@ -1,0 +1,7 @@
+{
+  "model":{
+    "type":"minecraft:model",
+    "model":"minecraft:skill/tree_religion_spear"
+  },
+  "hand_animation_on_swap": false
+}
