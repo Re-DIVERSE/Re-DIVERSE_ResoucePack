@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "item/skill/hookshot",
-		"particle": "item/skill/hookshot"
+		"0": "item/skills/hookshot",
+		"particle": "item/skills/hookshot"
 	},
 	"elements": [
 		{
