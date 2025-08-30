@@ -24,7 +24,7 @@
     {"type":"bitmap","file":"re-diverse:font/effect/burn_up.png","ascent":-26,"height":16,"chars":["\ue021"]},
     {"type":"bitmap","file":"re-diverse:font/effect/bleeding.png","ascent":-26,"height":16,"chars":["\ue022"]},
     {"type":"bitmap","file":"re-diverse:font/effect/glowing.png","ascent":-26,"height":16,"chars":["\ue023"]},
-    {"type":"bitmap","file":"re-diverse:font/effect/strength.png","ascent":-26,"height":16,"chars":["\ue024"]},
+    {"type":"bitmap","file":"re-diverse:font/effect/darkness.png","ascent":-26,"height":16,"chars":["\ue024"]},
     {"type":"bitmap","file":"re-diverse:font/effect/strength.png","ascent":-26,"height":16,"chars":["\ue025"]},
     {"type":"bitmap","file":"re-diverse:font/effect/frostbite.png","ascent":-26,"height":16,"chars":["\ue026"]},
     {"type":"bitmap","file":"re-diverse:font/effect/electrocuted.png","ascent":-26,"height":16,"chars":["\ue027"]},
