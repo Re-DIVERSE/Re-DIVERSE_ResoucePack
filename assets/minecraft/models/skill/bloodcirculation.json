@@ -1,0 +1,57 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/skills/bloodcirculation",
+		"particle": "item/skills/bloodcirculation"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 6],
+			"to": [12, 12, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 6]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 6], "texture": "#0"},
+				"east": {"uv": [0, 6.5, 1.5, 12.5], "texture": "#0"},
+				"south": {"uv": [4.5, 0, 8.5, 6], "texture": "#0"},
+				"west": {"uv": [2, 6.5, 3.5, 12.5], "texture": "#0"},
+				"up": {"uv": [8, 8, 4, 6.5], "texture": "#0"},
+				"down": {"uv": [8, 8.5, 4, 10], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 95, 0],
+			"translation": [0, 0.75, 0],
+			"scale": [0.77, 0.77, 0.77]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -86, 0],
+			"translation": [-0.5, 0.75, 0],
+			"scale": [0.77, 0.77, 0.77]
+		},
+		"firstperson_righthand": {
+			"rotation": [161.49, 80.01, 155],
+			"translation": [3.5, 0.25, -4.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [161.49, 80.01, 155],
+			"translation": [3.5, 0.25, -4.5]
+		},
+		"ground": {
+			"translation": [0, 7, 0]
+		},
+		"gui": {
+			"rotation": [144.4, 16.53, -144.21],
+			"translation": [1.5, 1.5, 0]
+		},
+		"head": {
+			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"scale": [4, 4, 4]
+		}
+	}
+}
