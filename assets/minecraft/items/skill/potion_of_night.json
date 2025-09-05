@@ -4,7 +4,7 @@
     "models": [
       {
         "type": "minecraft:model",
-        "model": "minecraft:skill/potion_of_night"
+        "model": "minecraft:skill/potion_of_night
       },
       {
         "type": "minecraft:range_dispatch",
