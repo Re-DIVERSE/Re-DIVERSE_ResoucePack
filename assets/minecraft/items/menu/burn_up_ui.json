@@ -1,0 +1,6 @@
+{
+  "model":{
+    "type":"minecraft:model",
+    "model":"minecraft:menu/burn_up_ui"
+  }
+}
