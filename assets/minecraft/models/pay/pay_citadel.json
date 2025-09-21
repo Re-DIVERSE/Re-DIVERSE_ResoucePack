@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "pay/pay_citadel",
-		"particle": "pay/pay_citadel"
+		"0": "item/pay/pay_citadel",
+		"particle": "item/pay/pay_citadel"
 	},
 	"elements": [
 		{

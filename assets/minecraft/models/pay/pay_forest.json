@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "pay/pay_forest",
-		"particle": "pay/pay_forest"
+		"0": "item/pay/pay_forest",
+		"particle": "item/pay/pay_forest"
 	},
 	"elements": [
 		{
