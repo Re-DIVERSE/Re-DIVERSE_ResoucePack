@@ -4,9 +4,9 @@
     "supported_formats": [15, 2147483647],
     "description": [
       {
-        "translate": "A A A %s",
+        "translate": "Re:DIVERSE Server original resource pack",
         "with": [
-          {"text": "秘境","color": "green"}
+          {"text": ""}
         ]
       }
     ]
