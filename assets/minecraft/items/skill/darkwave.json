@@ -4,7 +4,7 @@
     "models": [
       {
         "type": "minecraft:model",
-        "model": "minecraft:skill/dark_wave"
+        "model": "minecraft:skill/darkwave"
       },
       {
         "type": "minecraft:range_dispatch",

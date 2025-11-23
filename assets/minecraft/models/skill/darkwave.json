@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/skills/dark_wave"
+        "layer0": "item/skills/darkwave"
     }
 }
