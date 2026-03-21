@@ -9,7 +9,7 @@
       { 
         "texture": "minecraft:teamarmor",
         "dyeable": {
-          "color_when_undyed": -6265536
+          "color_when_undyed": 0
         }
       }
     ]
