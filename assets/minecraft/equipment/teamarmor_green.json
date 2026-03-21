@@ -1,8 +1,13 @@
 {
   "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:leather"
+      }
+    ],
     "humanoid_leggings": [
       { 
-        "texture": "teamarmor_green"
+        "texture": "minecraft:teamarmor_green"
       }
     ]
   }
