@@ -7,7 +7,7 @@
     ],
     "humanoid_leggings": [
       { 
-        "texture": "minecraft:teamarmor_yellow"
+        "texture": "minecraft:teamarmor"
       }
     ]
   }
