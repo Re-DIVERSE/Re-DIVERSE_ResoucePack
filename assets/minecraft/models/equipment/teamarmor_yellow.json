@@ -1,10 +1,5 @@
 {
   "layers": {
-    "humanoid": [
-      { 
-        "texture": "teamarmor_yellow"
-      }
-    ],
     "humanoid_leggings": [
       { 
         "texture": "teamarmor_yellow"
