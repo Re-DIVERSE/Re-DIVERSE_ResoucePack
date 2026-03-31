@@ -4,7 +4,7 @@
 	"textures": {
 		"4": "block/purple_stained_glass",
 		"5": "block/ancient_debris_side",
-		"7": "item/yogpunchcrack"
+		"7": "item/skills/fist_of_hidden_god"
 	},
 	"elements": [
 		{
