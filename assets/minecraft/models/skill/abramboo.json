@@ -5,7 +5,7 @@
 	"textures": {
 		"2": "block/stripped_dark_oak_log",
 		"3": "block/mushroom_block_inside",
-		"4": "item/abramboo",
+		"4": "item/skills/abramboo",
 		"particle": "block/bamboo_stage0"
 	},
 	"elements": [
