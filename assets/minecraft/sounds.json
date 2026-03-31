@@ -1,0 +1,19 @@
+
+{
+  "re-diverse/unyo": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "unyo",
+        "type": "event",
+        "weight": 6,
+        "stream": true,
+        "attenuation_distance":16,
+        "preload":false,
+        "volume":1.0,
+        "pitch":1.0
+      },
+      "re-diverse/unyo"
+    ]
+  }
+ }
