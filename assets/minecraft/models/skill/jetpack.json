@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/skill/jetpack",
-		"particle": "item/skill/jetpack"
+		"0": "item/skills/jetpack",
+		"particle": "item/skills/jetpack"
 	},
 	"elements": [
 		{
