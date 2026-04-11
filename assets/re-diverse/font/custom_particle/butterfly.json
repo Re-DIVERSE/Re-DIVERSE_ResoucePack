@@ -1,0 +1,23 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/butterfly/1.png",
+            "ascent": 276,
+            "height": 512,
+            "chars": [
+                "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/butterfly/2.png",
+            "ascent": 276,
+            "height": 512,
+            "chars": [
+                "2"
+            ]
+        },
+        {"type":"space","advances":{"\ue002":-256}}
+    ]
+}
