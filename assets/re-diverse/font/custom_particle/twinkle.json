@@ -1,0 +1,14 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "re-diverse:font/custom_particle/twinkle/1.png",
+            "ascent": 276,
+            "height": 512,
+            "chars": [
+                "1"
+            ]
+        },
+        {"type":"space","advances":{"\ue002":-256}}
+    ]
+}
