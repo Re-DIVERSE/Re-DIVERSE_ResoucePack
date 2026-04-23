@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/things/trigger"
+        "layer0": "item/things/emote_trigger"
     }
 }
