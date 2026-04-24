@@ -3,8 +3,22 @@
     "type": "minecraft:composite",
     "models": [
       {
-        "type": "minecraft:model",
-        "model": "minecraft:skill/cryonicstar"
+        "type": "minecraft:range_dispatch",
+        "model": "skill/cryonicstar",
+        "property": "minecraft:use_duration",
+        "entries": [
+          {
+            "threshold": 20,
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:fishing/fish/geniayu"
+            }
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "minecraft:skill/cryonicstar"
+        }
       },
       {
         "type": "minecraft:range_dispatch",
