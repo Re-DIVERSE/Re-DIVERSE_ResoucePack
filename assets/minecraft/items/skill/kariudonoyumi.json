@@ -3,8 +3,36 @@
     "type": "minecraft:composite",
     "models": [
       {
-        "type": "minecraft:model",
-        "model": "minecraft:skill/kariudonoyumi"
+        "type": "minecraft:range_dispatch",
+        "model": "skill/cryonicstar",
+        "property": "minecraft:use_duration",
+        "entries": [
+          {
+            "threshold": 1,
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:skill/kariudonoyumi_pulling_0"
+            }
+          },
+          {
+            "threshold": 5,
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:skill/kariudonoyumi_pulling_1"
+            }
+          },
+          {
+            "threshold": 10,
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:skill/kariudonoyumi_pulling_2"
+            }
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "minecraft:skill/kariudonoyumi"
+        }
       },
       {
         "type": "minecraft:range_dispatch",
