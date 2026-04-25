@@ -8,13 +8,28 @@
         "property": "minecraft:use_duration",
         "entries": [
           {
+            "threshold": 0,
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:skill/cryonicstar_pulling_0"
+            }
+          },
+          {
+            "threshold": 10,
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:skill/cryonicstar_pulling_1"
+            }
+          },
+          {
             "threshold": 20,
             "model": {
               "type": "minecraft:model",
-              "model": "minecraft:fishing/fish/geniayu"
+              "model": "minecraft:skill/cryonicstar_pulling_2"
             }
           }
         ],
+
         "fallback": {
           "type": "minecraft:model",
           "model": "minecraft:skill/cryonicstar"
