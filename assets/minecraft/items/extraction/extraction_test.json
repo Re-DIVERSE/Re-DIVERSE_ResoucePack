@@ -1,7 +1,7 @@
 {
   "model":{
     "type":"minecraft:model",
-    "model":"minecraft:extraction/extraction_test"
+    "model":"minecraft:extraction/extraction_normal"
   },
   "hand_animation_on_swap": false
 }
