@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/skills/anchorhowl"
+        "layer0": "item/skills/little_world_tree"
     }
 }
