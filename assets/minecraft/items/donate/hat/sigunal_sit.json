@@ -1,6 +1,6 @@
 {
   "model":{
     "type":"minecraft:model",
-    "model":"minecraft:things/sigunal_posing"
+    "model":"minecraft:donate/hat/sigunal_sit"
   }
 }
