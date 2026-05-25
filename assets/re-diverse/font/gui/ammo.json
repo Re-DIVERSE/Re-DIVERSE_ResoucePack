@@ -1,7 +1,7 @@
 {
   "providers": [
 
-    {"type":"bitmap","file":"re-diverse:font/ammo/ammo.png","ascent":-2,"height":16,"chars":["\ue000"]},
+    {"type":"bitmap","file":"re-diverse:font/ammo/ammo.png","ascent":-2,"height":1,"chars":["\ue000"]},
     {"type":"bitmap","file":"re-diverse:font/ammo/bar.png","ascent":-18,"height":1,"chars":["\ue001"]},
     {"type":"bitmap","file":"re-diverse:font/ammo/reload.png","ascent":-2,"height":16,"chars":["\ue002"]},
 
