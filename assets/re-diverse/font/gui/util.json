@@ -1,7 +1,7 @@
 {
   "providers": [
 
-    {"type":"bitmap","file":"re-diverse:font/util/pallette_font.png","ascent":-2,"height":16,"chars":["\ue000"]},
+    {"type":"bitmap","file":"re-diverse:font/util/pallette_font.png","ascent":-2,"height":1,"chars":["\ue000"]},
 
     {"type":"space","advances":{"\uf000":64}},
     {"type":"space","advances":{"\uf001":-64}},
