@@ -1,0 +1,7 @@
+{
+  "model":{
+    "type":"minecraft:model",
+    "model":"minecraft:fishing/fish/kasasagi"
+  },
+  "hand_animation_on_swap": false
+}
