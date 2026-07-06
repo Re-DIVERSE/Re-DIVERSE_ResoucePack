@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/skills/staff_of_falling_star"
+        "layer0": "item/skills/staff_of_fallingstar"
     }
 }

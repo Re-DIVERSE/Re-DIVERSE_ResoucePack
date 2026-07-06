@@ -4,7 +4,7 @@
     "models": [
       {
         "type": "minecraft:model",
-        "model": "minecraft:skill/staff_of_falling_star"
+        "model": "minecraft:skill/staff_of_fallingstar"
       },
       {
         "type": "minecraft:range_dispatch",
