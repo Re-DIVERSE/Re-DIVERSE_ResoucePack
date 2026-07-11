@@ -4,7 +4,7 @@
     "models": [
       {
         "type": "minecraft:model",
-        "model": "minecraft:skill/fist_of_great_ones_entity"
+        "model": "minecraft:skill/fist_of_great_ones"
       },
       {
         "type": "minecraft:range_dispatch",
