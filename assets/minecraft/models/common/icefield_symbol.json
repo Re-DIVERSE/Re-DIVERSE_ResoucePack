@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/skills/icefield_symbol"
+        "layer0": "item/common/icefield_symbol"
     }
 }
