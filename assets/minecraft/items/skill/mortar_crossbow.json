@@ -4,7 +4,7 @@
     "models": [
       {
         "type": "minecraft:model",
-        "model": "minecraft:skill/mortal_crossbow"
+        "model": "minecraft:skill/mortar_crossbow"
       },
       {
         "type": "minecraft:range_dispatch",
