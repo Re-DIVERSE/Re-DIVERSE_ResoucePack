@@ -4,7 +4,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "block/light_blue_concrete_powder",
-		"1": "item/skills/poi",
+		"1": "item/skills/goldfish_poi",
 		"particle": "block/light_blue_concrete_powder"
 	},
 	"elements": [
