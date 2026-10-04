@@ -4,18 +4,15 @@
     "model":"minecraft:common/fire_model_2",
     "tints": [
       {
-        "type": "minecraft:custom_model_data",
-        "index": 0,
+        "type": "minecraft:constant",
         "default": [1, 1, 1]
       },
       {
-        "type": "minecraft:custom_model_data",
-        "index": 1,
+        "type": "minecraft:constant",
         "default": [1, 1, 1]
       },
       {
-        "type": "minecraft:custom_model_data",
-        "index": 2,
+        "type": "minecraft:constant",
         "default": [1, 1, 1]
       }
     ]
