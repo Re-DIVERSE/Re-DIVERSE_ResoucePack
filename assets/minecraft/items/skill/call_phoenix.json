@@ -4,7 +4,7 @@
     "models": [
       {
         "type": "minecraft:model",
-        "model": "minecraft:call_phoenix"
+        "model": "minecraft:skill/call_phoenix"
       },
       {
         "type": "minecraft:range_dispatch",
