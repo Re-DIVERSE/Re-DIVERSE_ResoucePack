@@ -3,8 +3,21 @@
     "type": "minecraft:composite",
     "models": [
       {
-        "type": "minecraft:model",
-        "model": "minecraft:skill/tyukongikyu"
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:use_duration",
+        "entries": [
+          {
+            "threshold": 10,
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:skill/tyukongikyu_pulling_2"
+            }
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "minecraft:skill/tyukongikyu"
+        }
       },
       {
         "type": "minecraft:range_dispatch",
