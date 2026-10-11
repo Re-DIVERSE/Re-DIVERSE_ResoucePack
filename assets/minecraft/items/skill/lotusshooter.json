@@ -14,14 +14,14 @@
             }
           },
           {
-            "threshold": 5,
+            "threshold": 10,
             "model": {
               "type": "minecraft:model",
               "model": "minecraft:skill/lotusshooter_pulling_1"
             }
           },
           {
-            "threshold": 10,
+            "threshold": 20,
             "model": {
               "type": "minecraft:model",
               "model": "minecraft:skill/lotusshooter_pulling_2"
